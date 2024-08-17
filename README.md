@@ -58,5 +58,6 @@ It is now time to record your presentation to the client. Remember, your present
 
 #Cerificate of completion
 
+![Screenshot 2024-08-17 153805](https://github.com/user-attachments/assets/6a940405-f4d7-40e0-8d61-4da78dcbeeed)
 
 
